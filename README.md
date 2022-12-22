@@ -1,17 +1,17 @@
 ### Hi there 👋
+- :house: I live in Shanghai or Shenzhen, China
+- ❤️ Area of Interest: Computer Graphics, Game Engine
+- :video_game: I like to play AAA games like God of War, Dark Souls, Sekiro
+- 💬 Welcome to contact my wechat：wxqq465544815
+<br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyriewxcode&layout=compact)](https://github.com/Christmas/github-readme-stats)
 
-<!--
-**kyriewxcode/kyriewxcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
+### Program Language
+Actually, the most used language in my work is C#, but I am learning C++.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyriewxcode&layout=compact&hide=javascript)](https://github.com/Christmas/github-readme-stats)
+<br></br>
+
+### Github Stats
+![Kyrie's GitHub stats](https://github-readme-stats.vercel.app/api?username=kyriewxcode&show_icons=true&theme=radical)
+<br></br>
