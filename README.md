@@ -7,7 +7,6 @@
 
 
 ### Program Language
-Actually, the most used language in my work is C#, but I am learning C++.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyriewxcode&layout=compact&hide=javascript)](https://github.com/Christmas/github-readme-stats)
 <br></br>
