@@ -1,5 +1,5 @@
 ### Hi there 👋
-- :house: I live in Shanghai or Shenzhen, China
+- :house: I live in Guangzhou, China
 - ❤️ Area of Interest: Computer Graphics, Game Engine
 - :video_game: I like to play AAA games like God of War, Dark Souls, Sekiro
 - 💬 Welcome to contact my wechat：wxqq465544815
