@@ -1,7 +1,7 @@
 ### Hi there 👋
-- :house: I live in Guangzhou, China
+- :house: Live in Guangzhou, China
 - ❤️ Area of Interest: Computer Graphics, Game Engine
-- :video_game: I like to play AAA games like God of War, Dark Souls, Sekiro
+- :video_game: Like to play a variety of video games, including independent games, 3A games, etc.
 - 💬 Welcome to contact my wechat：wxqq465544815
 <br></br>
 
